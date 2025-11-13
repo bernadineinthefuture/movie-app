@@ -8,8 +8,6 @@
     "build": "vite build"
   },
   
-  "scripts": {
-    "build": "react-scripts build"
-  }
+
 
 }
